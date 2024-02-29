@@ -2,7 +2,7 @@
 
 ## Compteur de vue
 
-![](https://komarev.com/ghpvc/?username=Gabin221)
+![](https://komarev.com/ghpvc/?username=Gabin221&color=green)
 
 ## Série Github
 
