@@ -3,6 +3,7 @@
 ## WakaTime
 
 <!--START_SECTION:waka-->
+[![WakaTime](https://wakatime.com/badge/user/Gabin221.svg)](https://wakatime.com/@Gabin221)
 <!--END_SECTION:waka-->
 
 <!--
