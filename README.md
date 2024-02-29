@@ -1,7 +1,7 @@
 <h1 align="center">Bienvenue sur mon profil GitHub ! 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gabin221&color=green" alt="Compteur de vues">
+  ![](https://komarev.com/ghpvc/?username=Gabin221&color=green)
 </p>
 
 <p align="center">
