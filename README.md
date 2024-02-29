@@ -30,9 +30,6 @@
   </a> 
   <a href="https://www.mysql.com/fr/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/XML/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="XML" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
