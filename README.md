@@ -48,4 +48,19 @@
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> 
   </a> 
+  <a href="https://github.com" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40"/> 
+  </a> 
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a> 
+  <a href="https://jupyter.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.latex-project.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/> 
+  </a> 
 </p>
