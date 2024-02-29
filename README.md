@@ -48,8 +48,3 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gabin221" alt="Trophées GitHub" /></a>
 </p>
-
-<h2 align="center">Contact</h2>
-
-<p align="center">Pour toute question ou collaboration, n'hésitez pas à me contacter à <a href="mailto:votre@email.com">votre@email.com</a>.
-</p>
