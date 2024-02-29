@@ -3,7 +3,14 @@
 ![](https://komarev.com/ghpvc/?username=Gabin221&color=green)
 
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Gabin221"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabin221" alt="GitHub Streak" /></a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Gabin221">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabin221" alt="GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabin221&langs_count=20&layout=donut-vertical">
+    <img src="https://github.com/anuraghazra/github-readme-stats" alt="GitHub Streak" />
+  </a>
 </p>
 
 <h2 align="center">Langages</h2>
