@@ -39,4 +39,13 @@
   <a href="https://isocpp.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   </a> 
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> 
+  </a> 
 </p>
