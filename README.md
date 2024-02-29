@@ -1,7 +1,9 @@
 <h1 align="center">Bienvenue sur mon profil GitHub ! 👋</h1>
 
-![](https://komarev.com/ghpvc/?username=Gabin221&color=green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabin221&langs_count=20&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  ![](https://komarev.com/ghpvc/?username=Gabin221&color=green)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabin221&langs_count=20&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=Gabin221">
