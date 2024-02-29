@@ -63,4 +63,10 @@
   <a href="https://www.latex-project.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/> 
   </a> 
+  <a href="https://www.gnu.org/home.fr.html" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://daringfireball.net/projects/markdown/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/> 
+  </a> 
 </p>
