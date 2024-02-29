@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabin221)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Trophées
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gabin221)](https://github.com/ryo-ma/github-profile-trophy)  
-lien: https://github.com/ryo-ma/github-profile-trophy
 
 ## Badges
 
