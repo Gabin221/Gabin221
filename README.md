@@ -2,6 +2,7 @@
 
 <div align="center">
   ![](https://komarev.com/ghpvc/?username=Gabin221&color=green)  
+  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabin221&langs_count=20&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
