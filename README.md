@@ -1,8 +1,6 @@
 <h1 align="center">Bienvenue sur mon profil GitHub ! 👋</h1>
 
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=Gabin221&color=green)
-</p>
+![](https://komarev.com/ghpvc/?username=Gabin221&color=green)
 
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=Gabin221"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabin221" alt="GitHub Streak" /></a>
