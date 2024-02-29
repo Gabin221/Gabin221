@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Compteur de vue
+
+![](https://komarev.com/ghpvc/?username=Gabin221)
+
 ## Série Github
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabin221)](https://git.io/streak-stats)
