@@ -3,6 +3,7 @@
 ## Trophées
 
 [![trophy](https://github-profile-trophy.vercel.app/?gabin221=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+lien: https://github.com/ryo-ma/github-profile-trophy
 
 ## Badges
 
