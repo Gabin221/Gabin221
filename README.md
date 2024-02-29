@@ -1,13 +1,13 @@
 <h1 align="center">Bienvenue sur mon profil GitHub ! 👋</h1>
 
 ![](https://komarev.com/ghpvc/?username=Gabin221&color=green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabin221&langs_count=20&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=Gabin221">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabin221" alt="GitHub Streak" />
   </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabin221&langs_count=20&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Langages</h2>
 
