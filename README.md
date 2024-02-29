@@ -27,9 +27,6 @@
   </a> 
   <a href="https://isocpp.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/fr/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
