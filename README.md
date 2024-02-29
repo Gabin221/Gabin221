@@ -69,4 +69,16 @@
   <a href="https://daringfireball.net/projects/markdown/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/> 
   </a> 
+  <a href="https://www.mysql.com/fr/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
+  </a> 
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/XML/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="XML" width="40" height="40"/> 
+  </a> 
 </p>
