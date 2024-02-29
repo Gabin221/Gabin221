@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## Série Github
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabin221)](https://git.io/streak-stats)
+
+
 ## Langages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabin221)](https://github.com/anuraghazra/github-readme-stats)
