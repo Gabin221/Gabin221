@@ -30,4 +30,13 @@
   <a href="https://kotlinlang.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
   </a> 
+  <a href="https://developer.android.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android studio" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.iso.org/standard/74528.html" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  </a> 
+  <a href="https://isocpp.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  </a> 
 </p>
