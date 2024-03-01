@@ -74,8 +74,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabin221&langs_count=20&size_weight=0.5&count_weight=0.5&layout=donut-vertical)
 
-[![Top Langs](https://github-readme-stats-omega-lyart-10.vercel.app/api/top-langs/?username=Gabin221&langs_count=20&size_weight=0.5&count_weight=0.5&layout=donut-vertical)](https://github.com/Gabin221/github-readme-stats)
-
 ## Trophées
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gabin221&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
