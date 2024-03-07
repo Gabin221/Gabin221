@@ -69,11 +69,3 @@
 ## Série GitHub
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabin221)](https://git.io/streak-stats)
-
-## Trophées
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gabin221&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Compteur de vues 
-
-![](https://komarev.com/ghpvc/?username=Gabin221&color=green)
