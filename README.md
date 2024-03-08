@@ -64,7 +64,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabin221&langs_count=20&size_weight=0.5&count_weight=0.5&layout=donut-vertical)
 
-![](adventofcode-badges.vercel.app/api?username=Gabin221)
+![Top Langs](adventofcode-badges.vercel.app/api/top-langs/?username=Gabin221)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabin221&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
