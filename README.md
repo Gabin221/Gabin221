@@ -1,5 +1,9 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/WTHIJ/count.svg?"  />
+</div>
+
 ## Langages
 
 ### Programmation
