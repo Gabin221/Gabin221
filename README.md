@@ -1,7 +1,7 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/WTHIJ/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Gabin221/count.svg?"  />
 </div>
 
 ## Langages
