@@ -8,7 +8,7 @@
 
 ### Programmation
 
-<a href="https://www.latex-project.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="LaTeX" width="100" height="100" /></a>
+<a href="https://www.latex-project.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="LaTeX" width="50" height="100" /></a>
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="100" height="100"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="100" height="100"/></a>
 <a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="100" height="100"/></a>
@@ -30,8 +30,8 @@
 
 ## Statistiques
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabin221&langs_count=20&size_weight=0.5&count_weight=0.5&layout=donut-vertical) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabin221&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
-|----------|----------|
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabin221&langs_count=20&size_weight=0.5&count_weight=0.5&layout=donut-vertical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabin221&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Série GitHub
 
