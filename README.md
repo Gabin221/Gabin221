@@ -10,13 +10,13 @@
 
 <a href="https://www.latex-project.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="LaTeX" width="50" height="50" /></a>
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="100" height="100"/></a>
-<a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="100" height="100"/></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100" height="100"/></a>
-<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="100" height="100"/></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="100" height="100"/></a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="100" height="100"/></a>
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="100" height="100"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
+<a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/></a>
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/></a>
 
 ### Outils et Technologies
 
