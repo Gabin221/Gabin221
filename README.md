@@ -8,8 +8,8 @@
 
 ### Programmation
 
-<a href="https://www.latex-project.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="LaTeX" width="50" height="100" /></a>
-<a href="https://kotlinlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="100" height="100"/></a>
+<a href="https://www.latex-project.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="LaTeX" width="50" height="50" /></a>
+<a href="https://kotlinlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="100" height="100"/></a>
 <a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="100" height="100"/></a>
 <a href="https://isocpp.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100" height="100"/></a>
