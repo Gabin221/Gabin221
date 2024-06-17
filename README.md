@@ -1,4 +1,4 @@
-# lieu Bi sur mon profil GitHub ! 👋
+# Bienvenu sur mon profil GitHub ! 👋
  
 <div aligneur="centre">
   <img src="https://profile-counter.glitch.me/Gabin221/count.svg?"  />
