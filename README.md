@@ -35,15 +35,11 @@ Kotlin application développée pour **Blue Net Beacon**. Elle détecte des beac
 [Voir le projet Tracking-BLE](https://github.com/Gabin221/Tracking-BLE)  
 Technologies : Kotlin, android-beacon-library, Volley, DataStore-Preferences.
 
----
-
 ### **Gabin's Bar**
 Application mobile en **Kotlin** pour gérer les boissons à la maison. Elle inclut un inventaire détaillé, un système de commande et un panier pour offrir une expérience utilisateur optimale.
 
 [Voir le projet Gabin's Bar](https://github.com/Gabin221/Gabin-s-bar-v2)  
 Technologies : Kotlin, Android, SQLite.
-
----
 
 ### **Exercism**
 Participe à des challenges de code sur **Exercism**, en résolvant des problèmes d'algorithmes dans différents langages, dont **Kotlin**, **Python**, **Bash**, **C++** et **JavaScript**. Un bon moyen d'améliorer mes compétences en résolvant des défis concrets.
