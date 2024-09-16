@@ -61,12 +61,14 @@ Participe à des challenges de code sur **Exercism**, en résolvant des problèm
 
 ## 📊 Statistiques GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabin221&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabin221&langs_count=20&size_weight=0.5&count_weight=0.5&layout=donut-vertical)
-
-<div aligneur="centre">
-  <img src="https://profile-counter.glitch.me/Gabin221/count.svg?"  />
+<div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabin221&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabin221&langs_count=20&size_weight=0.5&count_weight=0.5&layout=donut-vertical)
+  
+  <div aligneur="centre">
+    <img src="https://profile-counter.glitch.me/Gabin221/count.svg?"  />
+  </div>
 </div>
 
 ---
