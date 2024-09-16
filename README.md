@@ -65,9 +65,12 @@ Participe à des challenges de code sur **Exercism**, en résolvant des problèm
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Gabin221&show_icons=true" alt="Statistiques GitHub de Gabin221" />
   </a>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabin221&langs_count=20&size_weight=0.5&count_weight=0.5&layout=donut-vertical" alt="Langages les plus utilisés par Gabin221" />
   </a>
+
+  <img src="https://profile-counter.glitch.me/Gabin221/count.svg?" alt="Compteur de visiteurs" />
 </div>
 
 ---
