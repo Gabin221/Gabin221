@@ -1,4 +1,4 @@
-# Gabin S.
+# Gabin221
 
 ## 👋 Bienvenue sur mon profil GitHub
 
@@ -32,7 +32,7 @@ Voici les principales technologies et outils que j'utilise dans mes projets :
 ### **Tracking-BLE**
 Kotlin application développée pour **Blue Net Beacon**. Elle détecte des beacons BLE et enregistre les données localement. L'application communique également avec des scripts sur des serveurs distants pour stocker les informations des beacons.
 
-[Voir le projet Tracking-BLE](https://github.com/ton-repo/tracking-ble)  
+[Voir le projet Tracking-BLE](https://github.com/Gabin221/Tracking-BLE)  
 Technologies : Kotlin, android-beacon-library, Volley, DataStore-Preferences.
 
 ---
@@ -40,31 +40,15 @@ Technologies : Kotlin, android-beacon-library, Volley, DataStore-Preferences.
 ### **Gabin's Bar**
 Application mobile en **Kotlin** pour gérer les boissons à la maison. Elle inclut un inventaire détaillé, un système de commande et un panier pour offrir une expérience utilisateur optimale.
 
-[Voir le projet Gabin's Bar](https://github.com/ton-repo/gabins-bar)  
+[Voir le projet Gabin's Bar](https://github.com/Gabin221/Gabin-s-bar-v2)  
 Technologies : Kotlin, Android, SQLite.
 
 ---
 
 ### **Exercism**
-Participe à des challenges de code sur **Exercism**, en résolvant des problèmes d'algorithmes dans différents langages, dont **Kotlin**, **Python** et **JavaScript**. Un bon moyen d'améliorer mes compétences en résolvant des défis concrets.
+Participe à des challenges de code sur **Exercism**, en résolvant des problèmes d'algorithmes dans différents langages, dont **Kotlin**, **Python**, **Bash**, **C++** et **JavaScript**. Un bon moyen d'améliorer mes compétences en résolvant des défis concrets.
 
-[Voir mon profil Exercism](https://exercism.io/profiles/ton-profil)
-
----
-
-## 🔥 Contributions Open Source
-
-Je contribue activement à plusieurs projets open-source en lien avec le développement mobile et web. Par exemple, j'ai récemment contribué à un projet open-source pour améliorer les performances des applications mobiles en Kotlin.
-
-- **[Nom du projet Open Source]** : Un projet visant à ... (description courte)
-
-Je suis toujours à la recherche de nouveaux projets open-source auxquels contribuer, donc n'hésitez pas à me contacter si vous souhaitez collaborer !
-
----
-
-## 🎯 Objectifs Professionnels
-
-Je cherche à développer mes compétences dans le domaine du développement mobile tout en explorant de nouvelles technologies dans le web. Mes projets futurs incluent la création d'applications mobiles de plus en plus performantes et respectueuses de la vie privée.
+[Voir mon profil Exercism](https://exercism.org/profiles/Gabin221)
 
 ---
 
@@ -72,12 +56,6 @@ Je cherche à développer mes compétences dans le domaine du développement mob
 
 - LinkedIn : [Mon profil](https://www.linkedin.com/in/gabin-serrurot-877a38253/)
 - GitHub : Vous êtes déjà ici 😎
-
----
-
-## 💡 Citation inspirante
-
-*"Le code propre est simple, mais puissant."* – [Ton nom]
 
 ---
 
