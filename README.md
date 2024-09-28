@@ -14,7 +14,7 @@ Voici les principales technologies et outils que j'utilise dans mes projets :
   - Kotlin
   - HTML / CSS / JavaScript
   - Python
-  - Shell scripting (Bash)
+  - Shell scripting (Bash, Powershell)
   - LaTeX
   - C++
 
