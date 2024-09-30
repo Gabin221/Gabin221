@@ -65,7 +65,7 @@ Participe à des challenges de code sur **Exercism**, en résolvant des problèm
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="*https://github-readme-stats.vercel.app/api/top-langs/?username=Gabin221&layout=donut" alt="Langages les plus utilisés par Gabin221" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabin221&layout=donut" alt="Langages les plus utilisés par Gabin221" />
   </a>
 </div>
 
