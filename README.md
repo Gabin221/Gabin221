@@ -57,7 +57,7 @@ Participe à des challenges de code sur **Exercism**, en résolvant des problèm
 
 ## 📊 Statistiques GitHub
 
-<img align="center" src="https://profile-counter.glitch.me/Gabin221/count.svg?" alt="Compteur de visiteurs" />
+<img src="https://profile-counter.glitch.me/Gabin221/count.svg?" alt="Compteur de visiteurs" />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabin221&show_icons=true" alt="Statistiques GitHub de Gabin221" />
 </a>
