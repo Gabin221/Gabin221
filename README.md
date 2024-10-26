@@ -46,6 +46,12 @@ Participe à des challenges de code sur **Exercism**, en résolvant des problèm
 
 [Voir mon profil Exercism](https://exercism.org/profiles/Gabin221)
 
+### **Integration-de-maquettes**
+Collection de projets d'intégration de maquettes trouvées en ligne, développées en **Kotlin**. Chaque projet traduit une maquette en interface mobile fonctionnelle, offrant une expérience visuelle et utilisateur fidèle aux designs initiaux.
+
+[Voir le projet Integration-de-maquettes](https://github.com/Gabin221/Integration-de-maquettes)  
+Technologies : Kotlin, Android, XML pour l'interface utilisateur.
+
 ---
 
 ## 📫 Me Contacter
