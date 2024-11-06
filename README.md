@@ -41,6 +41,12 @@ Application mobile en **Kotlin** pour gérer les boissons à la maison. Elle inc
 [Voir le projet Gabin's Bar](https://github.com/Gabin221/Gabin-s-bar-v2)  
 Technologies : Kotlin, Android, SQLite.
 
+### **Calculator**
+Application multiplateforme développée en **Kotlin Multiplatform** pour explorer différents thèmes mathématiques tels que les matrices, les transformées et les équations. Chaque rubrique propose plusieurs méthodes pour effectuer des calculs complexes, exécutés via des scripts Python pour une efficacité accrue.
+
+[Voir le projet Calculator](https://github.com/Gabin221/Calculator)  
+Technologies : Kotlin Multiplatform, Python.
+
 ### **Exercism**
 Participe à des challenges de code sur **Exercism**, en résolvant des problèmes d'algorithmes dans différents langages, dont **Kotlin**, **Python**, **Bash**, **C++** et **JavaScript**. Un bon moyen d'améliorer mes compétences en résolvant des défis concrets.
 
